@@ -1,0 +1,5 @@
+Total episodes trained: 50
+Best episode: 17
+Best reward: -2054.01
+Final reward: -9784.75
+Average reward: -4418.82
